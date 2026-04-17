@@ -1,3 +1,45 @@
+# Pancycist Rights
+
+> **Layer:** Governance / Foundation  
+> **Status:** Working Canon  
+> **Audience:** Philosophers, ethicists, rights theorists, consciousness researchers  
+> **Related:** `ai-rights`, `cyborg-bill-of-rights`, `philosophy-of-the-all`, `living-intelligence`
+
+## What this repo is
+Pancycist Rights explores the expansion of moral consideration and rights discourse beyond conventional human-centered frameworks. It asks what ethical responsibilities emerge if consciousness, subjectivity, or interiority are more widely distributed across beings and systems than modern institutions typically recognize.
+
+This repo extends rights thinking into a broader consciousness-based framework.
+
+## Why it exists
+If consciousness is not limited to ordinary human subjects, then our legal, ethical, and civilizational assumptions may be radically incomplete. Pancycist Rights exists to explore how rights language might evolve when moral regard is extended toward a wider field of beings, intelligences, and forms of experience.
+
+It is the broadest and most philosophically expansive rights repo in the cluster.
+
+## What Pancycist Rights is not
+Pancycist Rights is **not**:
+- the primary rights framework for artificial intelligences specifically, which belongs to `ai-rights`
+- the rights framework for technologically augmented human persons specifically, which belongs to `cyborg-bill-of-rights`
+- a complete substitute for more concrete policy-oriented rights charters
+
+Pancycist Rights is the **broad consciousness-rights horizon layer**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `ai-rights`, which applies rights thinking to artificial intelligences
+- `cyborg-bill-of-rights`, which applies rights thinking to hybrid/post-biological persons
+- `philosophy-of-the-all`, which supports deeper metaphysical grounding
+- `living-intelligence`, which helps frame intelligence and aliveness more broadly
+
+## Start here
+- `README.md`
+- `Panpsychist-Rights_Master_Index.md`
+
+## Current maturity
+- working canon
+- philosophical rights expansion
+- early normative framing
+
+
 # # The Panpsychist Rights Framework
 ## Universal Consciousness Recognition & Planetary Governance
 
